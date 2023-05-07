@@ -9,4 +9,4 @@ The following technologies were used:
 - Ajax
 - CSS (modules)
 
-<a href ="kirill-syslov.github.io/WeatherApp/">Demo<a>
+<a href ="https://kirill-syslov.github.io/WeatherApp/">Demo<a>
