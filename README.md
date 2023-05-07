@@ -5,8 +5,8 @@ The application is developed taking into account the FLUX architecture Requests 
 
 The following technologies were used:
 
-React
-Ajax
-CSS (modules)
+- React
+- Ajax
+- CSS (modules)
 
 <a href ="kirill-syslov.github.io/WeatherApp/">Demo<a>
